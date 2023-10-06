@@ -1,4 +1,4 @@
-# .github
+# Vanestum Landing Page
 Vanestum GitHub Landing Page
 
 Hello there - Welcome to our organisation's Git org
@@ -14,4 +14,4 @@ In the mean time here's a table
 
 And here's a picture of the 
 
-![architecture]([http://url/to/img.png](https://vanestum.com/wp-content/uploads/2022/09/content_developent-1-e1662490182770-1024x632.jpg)https://vanestum.com/wp-content/uploads/2022/09/content_developent-1-e1662490182770-1024x632.jpg)
+![architecture](https://vanestum.com/wp-content/uploads/2022/09/content_developent-1-e1662490182770-1024x632.jpg)https://vanestum.com/wp-content/uploads/2022/09/content_developent-1-e1662490182770-1024x632.jpg)
