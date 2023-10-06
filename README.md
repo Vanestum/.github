@@ -12,6 +12,4 @@ In the mean time here's a table
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-And here's a picture of the 
-
-![architecture](https://vanestum.com/wp-content/uploads/2022/09/content_developent-1-e1662490182770-1024x632.jpg)https://vanestum.com/wp-content/uploads/2022/09/content_developent-1-e1662490182770-1024x632.jpg)
+And here's a picture of the ![architecture](https://vanestum.com/wp-content/uploads/2022/09/content_developent-1-e1662490182770-1024x632.jpg)
