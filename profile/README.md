@@ -28,12 +28,12 @@ namespace MyCompany.MyApp
 }
 ```
 
-In the mean time here's a table
+Tables
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | *Italic* Cell  |
+| **Bold** Cell  | ~~Deleted Cell~~  |
 
 And here's a diagram to keep readers interested:
 
