@@ -21,10 +21,10 @@ Syntax highlighting
 ```csharp
 namespace MyCompany.MyApp
 {
-	public static class Foo
-	{
-   		public static double TimesPi(this double number) => number * Math.PI;
-	}
+  public static class Foo
+    {
+      public static double TimesPi(this double number) => number * Math.PI;
+    }
 }
 ```
 
