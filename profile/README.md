@@ -8,7 +8,7 @@ This profile level repository
 
 For example:
 
-## Welcome to Vanestun.com!
+## Welcome to Vanestum.com!
 
 Be sure to check out our [web site](https://vanestum.com) where you can find additional documentation on our product and service offerings at [Our docs site](https://prerelease.kwil.com/docs/introduction)
 
