@@ -1,5 +1,5 @@
 # Vanestum Consulting - Example of configuring your Organisation Level Github Markdown page
-In addition to repository level `README.md` markdown pages, it is also possible to configure a [root level organisation level Git Hub repositor](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
+In addition to repository level `README.md` markdown pages, it is also possible to configure a [root level organisation level Git Hub repository](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
 
 This profile level repository 
 - Providing an overview of all the public repositories that are provided by your organisation.
