@@ -2,9 +2,9 @@
 In addition to repository level `README.md` markdown pages, it is also possible to configure a [root level organisation level GitHub repository](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
 
 This profile level repository 
-- Providing an overview of all the public repositories that are provided by your organisation.
-- Providing navigation and context
-- Providing SEO benefits to assist with attracting viewers and engagements with your services and products.
+- Provides an overview of all the public repositories that are provided by your organisation.
+- Provides navigation and context
+- Provides SEO benefits to assist with attracting viewers and engagements with your services and products.
 
 For example:
 
